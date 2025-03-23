@@ -33,28 +33,6 @@ Follow these steps to set up and run the project locally.
 - **IDE**: Use an IDE like VS Code or Android Studio with Flutter plugins installed.
 - **Git**: To clone the repository.
 
-## 📂 Project Structure
-
-travel-app/
-├── assets/
-│   ├── images/
-│   │   ├── natuer.jpg
-│   │   ├── Guangzhou.jpg
-│   │   ├── newyork.jpg
-│   │   ├── Shanghai.jpg
-│   │   ├── southkorea.jpg
-│   │   └── Tokyo.jpg
-├── lib/
-│   ├── model/
-│   │   └── TravelModel.dart  # Data model and sample data for travel destinations
-│   └── main.dart            # Main application file with UI and logic
-├── screenshots/
-│   ├── Screenshot 1.png     # Screenshot of the intro screen
-│   └── Screenshot 2.png     # Screenshot of the main page
-├── pubspec.yaml             # Project dependencies and assets configuration
-└── README.md                # Project documentation
-
-text
 ##📦 Dependencies
 The project uses the following packages:
 
