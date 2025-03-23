@@ -33,7 +33,7 @@ Follow these steps to set up and run the project locally.
 - **IDE**: Use an IDE like VS Code or Android Studio with Flutter plugins installed.
 - **Git**: To clone the repository.
 
-##📦 Dependencies
+## 📦 Dependencies
 The project uses the following packages:
 
 flutter: Core Flutter framework.
@@ -48,7 +48,7 @@ expandable_text: ^2.3.0: For collapsible description text.
 5: Expand the description to read more about the location.
 6: Check the total price and tap the arrow button to proceed (currently shows a snackbar).
 
-##🖼️ Assets
+## 🖼️ Assets
 images are placed in the assets/images/ directory:
 
 natuer.jpg (for the intro screen)
@@ -58,7 +58,7 @@ Shanghai.jpg
 southkorea.jpg
 Tokyo.jpg
 
-##📝 Notes
+## 📝 Notes
 The app currently uses static data defined in TravelModel.dart. You can extend it by integrating an API for dynamic data.
 The "Proceed" button (arrow) currently displays a snackbar. You can implement actual booking functionality as needed.
 Ensure the images are correctly placed in the assets/images/ directory and declared in pubspec.yaml.
