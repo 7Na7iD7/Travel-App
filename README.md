@@ -40,7 +40,7 @@ flutter: Core Flutter framework.
 cupertino_icons: ^1.0.2: For Cupertino-style icons.
 expandable_text: ^2.3.0: For collapsible description text.
 
-##🚀 Usage
+## 🚀 Usage
 1: Launch the app to see the intro screen with a "Go" button.
 2: Tap the "Go" button to navigate to the main page.
 3:Browse through the list of destinations on the right side (thumbnails).
